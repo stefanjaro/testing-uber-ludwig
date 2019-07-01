@@ -1,0 +1,4062 @@
+{
+    "command": "/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-e963c3b3-45cf-4890-9159-c56a744e1559.json",
+    "ludwig_version": "0.1.2",
+    "model_definition": {
+        "combiner": {
+            "type": "concat"
+        },
+        "input_features": [
+            {
+                "name": "1x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "1x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "2x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "3x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "4x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "5x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "6x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "7x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "8x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "9x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "10x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "11x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "12x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "13x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "14x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "15x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "16x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "17x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "18x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "19x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "20x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "21x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "22x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "23x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "24x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "25x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "26x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "27x28",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x1",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x2",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x3",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x4",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x5",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x6",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x7",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x8",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x9",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x10",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x11",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x12",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x13",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x14",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x15",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x16",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x17",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x18",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x19",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x20",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x21",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x22",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x23",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x24",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x25",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x26",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x27",
+                "tied_weights": null,
+                "type": "numerical"
+            },
+            {
+                "name": "28x28",
+                "tied_weights": null,
+                "type": "numerical"
+            }
+        ],
+        "output_features": [
+            {
+                "dependencies": [],
+                "loss": {
+                    "class_similarities_temperature": 0,
+                    "class_weights": 1,
+                    "confidence_penalty": 0,
+                    "distortion": 1,
+                    "labels_smoothing": 0,
+                    "negative_samples": 0,
+                    "robust_lambda": 0,
+                    "sampler": null,
+                    "type": "softmax_cross_entropy",
+                    "unique": false,
+                    "weight": 1
+                },
+                "name": "label",
+                "reduce_dependencies": "sum",
+                "reduce_input": "sum",
+                "top_k": 3,
+                "type": "category"
+            }
+        ],
+        "preprocessing": {
+            "bag": {
+                "fill_value": "",
+                "format": "space",
+                "lowercase": false,
+                "missing_value_strategy": "fill_with_const",
+                "most_common": 10000
+            },
+            "binary": {
+                "fill_value": 0,
+                "missing_value_strategy": "fill_with_const"
+            },
+            "category": {
+                "fill_value": "<UNK>",
+                "lowercase": false,
+                "missing_value_strategy": "fill_with_const",
+                "most_common": 10000
+            },
+            "force_split": false,
+            "image": {
+                "in_memory": true,
+                "missing_value_strategy": "backfill",
+                "resize_method": "crop_or_pad"
+            },
+            "numerical": {
+                "fill_value": 0,
+                "missing_value_strategy": "fill_with_const"
+            },
+            "sequence": {
+                "fill_value": "",
+                "format": "space",
+                "lowercase": false,
+                "missing_value_strategy": "fill_with_const",
+                "most_common": 20000,
+                "padding": "right",
+                "padding_symbol": "<PAD>",
+                "sequence_length_limit": 256,
+                "unknown_symbol": "<UNK>"
+            },
+            "set": {
+                "fill_value": "",
+                "format": "space",
+                "lowercase": false,
+                "missing_value_strategy": "fill_with_const",
+                "most_common": 10000
+            },
+            "split_probabilities": [
+                0.7,
+                0.1,
+                0.2
+            ],
+            "stratify": null,
+            "text": {
+                "char_format": "characters",
+                "char_most_common": 70,
+                "char_sequence_length_limit": 1024,
+                "fill_value": "",
+                "lowercase": true,
+                "missing_value_strategy": "fill_with_const",
+                "padding": "right",
+                "padding_symbol": "<PAD>",
+                "unknown_symbol": "<UNK>",
+                "word_format": "space_punct",
+                "word_most_common": 20000,
+                "word_sequence_length_limit": 256
+            },
+            "timeseries": {
+                "fill_value": "",
+                "format": "space",
+                "missing_value_strategy": "fill_with_const",
+                "padding": "right",
+                "padding_value": 0,
+                "timeseries_length_limit": 256
+            }
+        },
+        "training": {
+            "batch_size": 128,
+            "bucketing_field": null,
+            "decay": false,
+            "decay_rate": 0.96,
+            "decay_steps": 10000,
+            "dropout_rate": 0.0,
+            "early_stop": 5,
+            "epochs": 100,
+            "eval_batch_size": 0,
+            "gradient_clipping": null,
+            "increase_batch_size_on_plateau": 0,
+            "increase_batch_size_on_plateau_max": 512,
+            "increase_batch_size_on_plateau_patience": 5,
+            "increase_batch_size_on_plateau_rate": 2,
+            "learning_rate": 0.001,
+            "learning_rate_warmup_epochs": 5,
+            "optimizer": {
+                "beta1": 0.9,
+                "beta2": 0.999,
+                "epsilon": 1e-08,
+                "type": "adam"
+            },
+            "reduce_learning_rate_on_plateau": 0,
+            "reduce_learning_rate_on_plateau_patience": 5,
+            "reduce_learning_rate_on_plateau_rate": 0.5,
+            "regularization_lambda": 0,
+            "regularizer": "l2",
+            "staircase": false,
+            "validation_field": "combined",
+            "validation_measure": "loss"
+        }
+    },
+    "random_seed": 42
+}
